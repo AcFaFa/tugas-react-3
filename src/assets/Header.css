@@ -1,0 +1,9 @@
+.header {
+  /* ini buat css headernya yeeee */
+  background-color: aqua;
+  width: 100%;
+  height: 40px;
+  padding: 2;
+  font-size: 30px;
+  text-align: center;
+}
